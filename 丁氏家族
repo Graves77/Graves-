@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<base href="http://www.dingshijiazu.com/images/" target="_blank">
+<meta charset="utf-8">
+<title>丁氏家族</title>
+</head>
+<body>
+<h1 style="text-align: center;color: rgb(0, 156, 247);">丁氏家族的介绍</h1>
+<hr>
+<p style="text-align:center ;font-size:25px;"><b>成员介绍：</b></p>
+<h1 style="text-align:center;">一号主人：</h1>
+<font size="3">丁度波</font>
+<h2 style="text-align: center;">二号主人：</h2>
+<font size="3">刘妙君</font>
+<h3 style="text-align: center;">三号主人：</h3>
+<font size="3">丁洛婷</font>
+<h4 style="text-align: center;">四号主人：</h4>
+<font size="3">丁小重</font>
+<p size="5">
+一张全家福：
+<img src="全家福.png" alt="全家福"width="50"height="50">
+</p>
+<!--这是一个注释-->
+</body>
+</html>
